@@ -25,6 +25,8 @@ And briefly mentioned above, the location of the base offers many advantages com
 
 ![Photo credits to the HI-SEAS project.](https://hi-seas.org/wp-content/gallery/hiseasall/DSC_0563-1.JPG)
 
+{% include image.html url="https://hi-seas.org/wp-content/gallery/hiseasall/DSC_0563-1.JPG" description="Photo taken from the Mars base location in Hawaii. Photo credits to the HI-SEAS project." %}
+
 Due to Hawaii's proximity to the Pacific Ocean and having strong trade winds that blow across the ideas, the HI-SEAS Mars base tends to have very consistent weather. The temperature averaging between 65 degrees Fahrenheit to a balmy 88 degrees, which is much higher than that of the surface of Mars, which can range from 68 degrees at noon on the equator of Mars to -243 degrees at a pole. Hawaii's dry season lasts from May to October, and this is the time in which the Mars base here has the most accurate emulation of Mars weather.
 
 ## Habitat
