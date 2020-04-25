@@ -31,7 +31,7 @@ Due to Hawaii's proximity to the Pacific Ocean and having strong trade winds tha
 
 Besides the excellent choice of location, HI-SEAS has carefully designed their habitat to as closely as possible represent the conditions and constraints that astronauts would have to face. This includes a twenty minute communication delay between the base and mission control as well as complete self-sufficiency part from occasional cargo drops.
 
-{% include image.html url="images/habitat.jpg" description="The Mars Base Habitat. Featured in the center of the image is the dome that the candidates live and work in. The shipping crate pictures to the right of the dome is an external lab. Photo credits to the HI-SEAS project." %}
+{% include image.html url="images/habitat.jpg" description="The Mars Base Habitat. Featured in the center of the image is the dome that the candidates live and work in. The shipping crate pictures to the right of the dome is an external lab as well as airlock. Photo credits to the HI-SEAS project." %}
 
 The habitat in question is a dome that is 36 feet in diameter, complete with a kitchen, dining room, bathroom, shower, lab, exercise room, common spaces, and six bedrooms. The dome is split into two floors: the first floor, which is most of the common and work rooms, and the second floor, which is bedrooms and a half-bathroom. In addition, there an external lab connected to the back of the habitat.
 
@@ -49,13 +49,21 @@ There is also an airlock on the side of the hab and contains most of the food fo
 
 The second floor is primarily bedrooms and a half-bathroom that just contains another electric toilet and sink. Since the rooms are at the top of the dome, they have sloped ceilings. However, there is still enough room for each crew member to fully stand up in each room.
 
-## A Day in the Life of a Crew Member
-
-
-
 ## Project Findings
 
+HI-SEAS has successfully conducted five missions since 2013, with each mission having different focuses [haeuplik]. The first mission, HI-SEAS I, focused on culinary and psychological aspects mostly pertaining to the habitat temperature as well as crew diet and its effects. This mission lasted four months. HI-SEAS II lasted four months and focused more on team cohesion and performance. In addition, virtual reality technology was used in the crew's communications with their families and friends, and the effectiveness of such tools were analyzed. HI-SEAS III was an extension of HI-SEAS II and lasted eight months. HI-SEAS IV was a further extension of HI-SEAS II and III with an additional focus on the effects of long-duration isolation on cohesiveness and productivity. HI-SEAS IV also holds the record for the longest HI-SEAS mission, the longest NASA-funded space simulation conducted, and the second-longest space simulation conducted overall [wikipedia]. This mission lasted a whole year. HI-SEAS V lasted eight months and looked at team composition and dynamics and how that affected performance.
+
+It was found that the crew of HI-SEAS IV started to form rifts between one another quickly, and these rifts stayed over the course of the entire mission [hauepik]. While the crew did enjoy having game nights approximately once a week. Lots of crew members used exercise as a way to escape, with some running entire marathons inside of the habitat. Group workouts also often took place, however these normally involved only a few crew members at a time. Crews were observed to form friend pairs in most conditions, and these pairs spent most of their time together.
+
+The crew tended to find dinner time unpleasant according to post-mission interviews [hauelpik]. This was attributed to forced social interaction that touched on preexisting social tensions as well as the sheer amount of work that was normally reviewed during dinner time. Some whole-crew activities that took place at the beginning of the mission slowly lost members, with some activities eventually only involving as little as two members. Work activities of some crew members often collided with crew members who were trying to relax, annoying them. Hygiene was also an issue, and strict regulation of power usage resulted in short, cold showers and limited time for hygiene. In addition, the compositing electric toilet smelled.
+
+Privacy was hard to obtain in the habitat, as soundproofing of the dome was minimal and all common rooms were to be shared with six other crew members in close proximity. This combined with the open floor plan of the first floor made privacy even harder to find, which heightened social tensions. Crews reported that the dome was so poorly soundproofed that even private rooms only felt semi-private. Crews often resulted to hiding in the airlock as a place for small groups to socialize, but this area was also used for experiments and to store all of the food, which created more conflicts.
+
 ## Current and Future Work
+
+The last HI-SEAS mission, HI-SEAS VI, was scheduled to start on February 15th, 2017, and last a full eight months with four crew members. However, only four days into the mission, a crew member was electrocuted by some equipment and taken to a nearby hospital, where they recovered. The crew member did not want to continue the mission, and since they could not operated with only three crew members, the mission had to be cancelled.
+
+NASA chose in 2018 rather to fund a mission VII, they chose to do an in-depth analysis of the data from the previous missions. They are doing so by giving a grant to HI-SEAS to support enhanced data mining of the mission data [wikipedia].
 
 ## Image Credits
 
@@ -69,10 +77,14 @@ Some images are from NASA, which are public domain and not copyrighted unless sp
 ## Works Cited
 
 1. Connolly J. Deep Space Transport (DST) and Mars Mission Architecture. :20.
-2. Hawaii. In: Wikipedia. ; 2020. https://en.wikipedia.org/w/index.php?title=Hawaii&oldid=952568872. Accessed April 24, 2020.
-3. HI-SEAS. In: Wikipedia. ; 2020. https://en.wikipedia.org/w/index.php?title=HI-SEAS&oldid=939222655. Accessed April 12, 2020.
-4. HI-SEAS. HI-SEAS. http://hi-seas.org/. Accessed April 12, 2020.
-5. Soderman, SSERVI Staff. HI-SEAS Mission 3. Solar System Exploration Research Virtual Institute. https://sservi.nasa.gov/articles/hi-seas-mission-3/. Published 2014. Accessed April 25, 2020.
-6. Siceloff S. HI-SEAS Team Completes 8-Month Isolation Mission. NASA. http://www.nasa.gov/feature/hi-seas-team-completes-8-month-isolation-mission. Published June 19, 2015. Accessed April 12, 2020.
-7. Cofield C. Life on Mars: Inside The HI-SEAS Isolation Habitat (Gallery). Space.com. https://www.space.com/33941-inside-hiseas-isolation-habitat-hawaii.html. Published September 2, 2016. Accessed April 25, 2020.
-8. Daines G. NASA’s Journey to Mars. NASA. http://www.nasa.gov/content/nasas-journey-to-mars. Published February 13, 2015. Accessed April 24, 2020.
+2. Häuplik-Meusburger S, Binsted K, Bassingthwaighte T, Petrov G. Habitability Studies and Full Scale Simulation Research: Preliminary themes following HISEAS mission IV. :18.
+3. Hawaii. In: Wikipedia. ; 2020. https://en.wikipedia.org/w/index.php?title=Hawaii&oldid=952568872. Accessed April 24, 2020.
+4. HI-SEAS. In: Wikipedia. ; 2020. https://en.wikipedia.org/w/index.php?title=HI-SEAS&oldid=939222655. Accessed April 12, 2020.
+5. HI-SEAS. HI-SEAS. http://hi-seas.org/. Accessed April 12, 2020.
+6. Soderman, SSERVI Staff. HI-SEAS Mission 3. Solar System Exploration Research Virtual Institute. https://sservi.nasa.gov/articles/hi-seas-mission-3/. Published 2014. Accessed April 25, 2020.
+7. Siceloff S. HI-SEAS Team Completes 8-Month Isolation Mission. NASA. http://www.nasa.gov/feature/hi-seas-team-completes-8-month-isolation-mission. Published June 19, 2015. Accessed April 12, 2020.
+8. Cofield C. Life on Mars: Inside The HI-SEAS Isolation Habitat (Gallery). Space.com. https://www.space.com/33941-inside-hiseas-isolation-habitat-hawaii.html. Published September 2, 2016. Accessed April 25, 2020.
+9. Binsted K. Mānoa: HI-SEAS Mission VI cancelled | University of Hawaii News. https://manoa.hawaii.edu/news/article.php?aId=9103. Published February 26, 2018. Accessed April 25, 2020.
+10. Trifonovitch KA. Mānoa: HI-SEAS Mission VI is the most international crew in study history | University of Hawaii News. http://manoa.hawaii.edu/news/article.php?aId=9072. Published November 30, 2017. Accessed April 25, 2020.
+11. Meisenzahl D. Mānoa: HI-SEAS Mission VI postponed following a minor accident | University of Hawaii News. https://manoa.hawaii.edu/news/article.php?aId=9085. Published February 19, 2018. Accessed April 25, 2020.
+12. Daines G. NASA’s Journey to Mars. NASA. http://www.nasa.gov/content/nasas-journey-to-mars. Published February 13, 2015. Accessed April 24, 2020.
