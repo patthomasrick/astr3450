@@ -17,7 +17,7 @@ One of these pressing concerns about a Mars mission how to set up an effective, 
 > 2. the conditions (Habitat, mission, communications, etc.) are explicitly designed to be similar to those of a planetary exploration mission;
 > 3. the site is accessible year round, and has very little variation in weather, allowing longer-duration isolated and confined environment studies than at other locations;
 > 4. the Mars-like environment provides for high-fidelity analog tasks, such as geological field work carried out by human explorers and/or robots.  
-> [HI-SEAS.org](https://hi-seas.org/)
+> *[HI-SEAS.org](https://hi-seas.org/)*
 
 ## Location
 
@@ -29,21 +29,27 @@ Due to Hawaii's proximity to the Pacific Ocean and having strong trade winds tha
 
 ## Habitat
 
-Besides the excellent choice of location, HI-SEAS has carefully designed their habitat to as closely as possible represent the conditions and constraints that astronauts would have to face. 
+Besides the excellent choice of location, HI-SEAS has carefully designed their habitat to as closely as possible represent the conditions and constraints that astronauts would have to face. This includes a twenty minute communication delay between the base and mission control as well as complete self-sufficiency part from occasional cargo drops.
 
-{% include image.html url="images/habitat.jpg" description="The Mars Base Habitat. Featured in the center of the image is the dome that the candidates live and work in. To the right of the dome is an external laboratory. Photo credits to the HI-SEAS project." %}
+{% include image.html url="images/habitat.jpg" description="The Mars Base Habitat. Featured in the center of the image is the dome that the candidates live and work in. The shipping crate pictures to the right of the dome is an external lab. Photo credits to the HI-SEAS project." %}
 
-The habitat in question is a dome that is 36 feet in diameter, complete with a kitchen, dining room, bathroom, shower, lab, exercise room, common spaces, and six bedrooms. The dome is split into two floors: the first floor, which is most of the common and work rooms, and the second floor, which is mostly storage and bedrooms. In addition, there is an external "dirty lab" in which work can be done without bringing in a significant amount of dirt to the habitat.
+The habitat in question is a dome that is 36 feet in diameter, complete with a kitchen, dining room, bathroom, shower, lab, exercise room, common spaces, and six bedrooms. The dome is split into two floors: the first floor, which is most of the common and work rooms, and the second floor, which is bedrooms and a half-bathroom. In addition, there an external lab connected to the back of the habitat.
 
 ### First Floor
 
-### Second Floor
+The first floor contains all of the workspaces, exercise equipment, kitchen, bathroom, and common areas. Since the second floor only extends to half of the top of the dome, the rest of the empty space is above the main common area and results in a quite high, vaulted ceiling. Each crew member gets their own desk at which they complete their work. Their exercise equipment includes an exercise bike, a pull-up bar, and a treadmill, and some crew members have opted to run up and down the stairs to the second floor for exercise.
 
-### External Lab
+The bathroom is a full bathroom that includes a stall shower, a sink, and a toilet. The toilet is special in that it does not run using water but with a electric motor that composts the waste.
+
+The lab in the habitat contains many biological experiments and plants and is separate from the rest of the open living space on the first floor. 
+
+There is also an airlock on the side of the hab and contains most of the food for the crew as well. Entering and exiting the hab requires a spacesuit and five minutes of depressurization/pressurization, the same that would be required on Mars.
+
+### Second Floor
 
 ## Image Credits
 
-Most of the images were obtained from [HI-SEAS.org](https://hi-seas.org/) and are used in an educational, non-profit, non-commercial manner and thus falls under *[fair use](https://en.wikipedia.org/wiki/Fair_use)*.
+Most of the images were obtained from [HI-SEAS.org](https://hi-seas.org/) used in a manner that agrees with *[fair use](https://en.wikipedia.org/wiki/Fair_use)*.
 
 Some images are from NASA, which are public domain and not copyrighted unless specifically noted:
 
