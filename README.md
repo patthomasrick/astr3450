@@ -47,6 +47,8 @@ There is also an airlock on the side of the hab and contains most of the food fo
 
 ### Second Floor
 
+The second floor is primarily bedrooms and a half-bathroom that just contains another electric toilet and sink. Since the rooms are at the top of the dome, they have sloped ceilings. However, there is still enough room for each crew member to fully stand up in each room.
+
 ## Image Credits
 
 Most of the images were obtained from [HI-SEAS.org](https://hi-seas.org/) used in a manner that agrees with *[fair use](https://en.wikipedia.org/wiki/Fair_use)*.
