@@ -1,1 +1,5 @@
-remote_theme: daviddarnes/alembic
+theme: jekyll-theme-cayman
+title: A Glimpse Into a Mars Base Right Here on Earth
+description: ASTR3450 S2020 Final Project
+show_downloads: false
+google_analytics: UA-164510929-1
