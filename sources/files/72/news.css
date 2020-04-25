@@ -1,0 +1,115 @@
+#submit {
+	width: 724px;
+	margin: 0px 0px 0px 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+}
+#submit legend    {
+	font-size: 12px;
+	font-weight: bold;
+}
+#submit h2 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+#submit table td {
+	font-size: 11px;
+	padding: 0px 5px 1px 2px;
+	vertical-align: top;
+}
+
+#submit input {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+}
+
+#approval {
+	width: 724px;
+	margin: 0px 0px 0px 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+}
+#approval legend    {
+	font-size: 12px;
+	font-weight: bold;
+}
+#approval h2 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+#approval table th {
+	font-size: 11px;
+	font-weight: bold;
+	padding: 0px 5px 1px 2px;
+	vertical-align: bottom;
+	text-align: left;
+}
+#approval table td {
+	font-size: 11px;
+	font-weight: normal;
+	padding: 0px 5px 1px 2px;
+	vertical-align: top;
+}
+#approval input {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+}
+
+#news {
+        margin: 0px 0px 0px 0px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        line-height: 16px;
+}
+#news legend    {
+        font-size: 12px;
+        font-weight: bold;
+}
+#news h2 {
+        font-family: Arial, Helvetica, sans-serif;
+}
+#news table th {
+        font-size: 11px;
+        font-weight: bold;
+        padding: 0px 5px 1px 2px;
+        vertical-align: bottom;
+        text-align: left;
+}
+#news table td {
+        font-size: 11px;
+        font-weight: normal;
+        padding: 0px 5px 1px 2px;
+        vertical-align: top;
+}
+#news input {
+        font-family:Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        font-weight: normal;
+}
+
+.option0 { color:#0000FF; }
+.option1 { color:#008000; }
+.option2 { color:#FF0000; }
+.option3 { color:#FFA500; }
+
+.error { display: none; color: red; font-weight: bold; }
+.oddline { background-color: #F9F9F9; }
+.evenline { background-color: #EEEEEE; }
+.attnline { background-color: #EEBBBB; }
+.headerline { background-color: #DDDDDD; }
+
+.info { clear: both; float: left; margin-bottom: 12px; }
+.infodata { float: left; margin: 0 0 12px 6px;}
+
+.newsbox {
+ clear: both;
+ margin: 0 0 8px 0;
+ font-size: 13px;
+ font-family: arial, sans-serif;
+}
+.newsboxi { width: 70px; height: 70px; float: left; }
+.newsboxt { margin-left: 70px;}
+
+.captiontext { font-family: Arial, Helvetica, sans-serif; font-size: 10px; }

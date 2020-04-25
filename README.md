@@ -61,9 +61,9 @@ Privacy was hard to obtain in the habitat, as soundproofing of the dome was mini
 
 ## Current and Future Work
 
-The last HI-SEAS mission, HI-SEAS VI, was scheduled to start on February 15th, 2017, and last a full eight months with four crew members. However, only four days into the mission, a crew member was electrocuted by some equipment and taken to a nearby hospital, where they recovered. The crew member did not want to continue the mission, and since they could not operated with only three crew members, the mission had to be cancelled.
+The last HI-SEAS mission, HI-SEAS VI, was scheduled to start on February 15th, 2017, and last a full eight months with four crew members [10]. However, only four days into the mission, a crew member was electrocuted by some equipment and taken to a nearby hospital, where they recovered [11]. The crew member did not want to continue the mission, and since they could not operated with only three crew members, the mission had to be cancelled [9].
 
-NASA chose in 2018 rather to fund a mission VII, they chose to do an in-depth analysis of the data from the previous missions. They are doing so by giving a grant to HI-SEAS to support enhanced data mining of the mission data [wikipedia].
+NASA chose in 2018 rather to fund a mission VII, they chose to do an in-depth analysis of the data from the previous missions. They are doing so by giving a grant to HI-SEAS to support enhanced data mining of the mission data [4].
 
 ## Image Credits
 
@@ -76,7 +76,9 @@ Some images are from NASA, which are public domain and not copyrighted unless sp
 
 ## Works Cited
 
-1. Connolly J. Deep Space Transport (DST) and Mars Mission Architecture. :20.
+{% include bibliography.html %}
+
+<!-- 1. Connolly J. Deep Space Transport (DST) and Mars Mission Architecture. :20.
 2. Häuplik-Meusburger S, Binsted K, Bassingthwaighte T, Petrov G. Habitability Studies and Full Scale Simulation Research: Preliminary themes following HISEAS mission IV. :18.
 3. Hawaii. In: Wikipedia. ; 2020. https://en.wikipedia.org/w/index.php?title=Hawaii&oldid=952568872. Accessed April 24, 2020.
 4. HI-SEAS. In: Wikipedia. ; 2020. https://en.wikipedia.org/w/index.php?title=HI-SEAS&oldid=939222655. Accessed April 12, 2020.
@@ -87,4 +89,4 @@ Some images are from NASA, which are public domain and not copyrighted unless sp
 9. Binsted K. Mānoa: HI-SEAS Mission VI cancelled | University of Hawaii News. https://manoa.hawaii.edu/news/article.php?aId=9103. Published February 26, 2018. Accessed April 25, 2020.
 10. Trifonovitch KA. Mānoa: HI-SEAS Mission VI is the most international crew in study history | University of Hawaii News. http://manoa.hawaii.edu/news/article.php?aId=9072. Published November 30, 2017. Accessed April 25, 2020.
 11. Meisenzahl D. Mānoa: HI-SEAS Mission VI postponed following a minor accident | University of Hawaii News. https://manoa.hawaii.edu/news/article.php?aId=9085. Published February 19, 2018. Accessed April 25, 2020.
-12. Daines G. NASA’s Journey to Mars. NASA. http://www.nasa.gov/content/nasas-journey-to-mars. Published February 13, 2015. Accessed April 24, 2020.
+12. Daines G. NASA’s Journey to Mars. NASA. http://www.nasa.gov/content/nasas-journey-to-mars. Published February 13, 2015. Accessed April 24, 2020. -->
