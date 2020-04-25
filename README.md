@@ -19,10 +19,12 @@ One of these pressing concerns about a Mars mission how to set up an effective, 
 >4. the Mars-like environment provides for high-fidelity analog tasks, such as geological field work carried out by human explorers and/or robots.  
 > [HI-SEAS.org](https://hi-seas.org/)
 
-### Location
+## Location
 
 And briefly mentioned above, the location of the base offers many advantages compared to other long-duration crew mission studies. The location in question is on the side of a volcano and lends itself to very rocky soil and mountainsides covered with reddish-brown boulders, emulating some of the more mountainous regions of Mars.
 
 ![Photo credits to the HI-SEAS project.](https://hi-seas.org/wp-content/gallery/hiseasall/DSC_0563-1.JPG)
 
-Due to Hawaii's proximity to the Pacific Ocean and having strong trade winds that blow across the ideas, the HI-SEAS Mars base tends to have very consistent weather. The temperature averaging between 65 degrees Fahrenheit to a balmy 88 degrees, which is much higher than that of the surface of Mars, which can range from 68 degrees at noon on the equator of Mars to -243 degrees on a pole. Hawaii's dry season lasts from May to October, and this is the time in which the Mars base here has the most accurate emulation of Mars weather.
+Due to Hawaii's proximity to the Pacific Ocean and having strong trade winds that blow across the ideas, the HI-SEAS Mars base tends to have very consistent weather. The temperature averaging between 65 degrees Fahrenheit to a balmy 88 degrees, which is much higher than that of the surface of Mars, which can range from 68 degrees at noon on the equator of Mars to -243 degrees at a pole. Hawaii's dry season lasts from May to October, and this is the time in which the Mars base here has the most accurate emulation of Mars weather.
+
+## Habitat
