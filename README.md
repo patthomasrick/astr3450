@@ -5,7 +5,9 @@
 
 With Earth preparing for our first foray out into space beyond Low Earth orbit for the first time since the Apollo era, we have set our eyes on not only the Moon but also Mars. NASA has been devising a plan to send humans to a nearby asteroid and Mars, however a mission to Mars could take [upwards of one-thousand days](https://nvite.jsc.nasa.gov/presentations/b2/D1_Mars_Connolly.pdf). This introduces a unique set of problems. For example, we know that long-term spaceflight is quite dangerous and destructive to humans. 
 
-![Image credits to NASA.](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/journey_to_mars.jpeg)
+<!-- ![Image credits to NASA.](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/journey_to_mars.jpeg) -->
+
+{% include image.html url="images/nasa-journey-to-mars.jpg" description="Infographic from NASA's Journey to Mars from Dec. 1st, 2014. [Image credits to NASA.](https://www.nasa.gov/content/nasas-journey-to-mars)" %}
 
 One of these pressing concerns about a Mars mission how to set up an effective, comfortable, accommodating base on the surface of Mars, one that is relatively inexpensive but strong, functional and built-for-science but comfortable. One such group researched this very concept here on Earth in the HI-SEAS project.
 
@@ -23,9 +25,9 @@ One of these pressing concerns about a Mars mission how to set up an effective, 
 
 And briefly mentioned above, the location of the base offers many advantages compared to other long-duration crew mission studies. The location in question is on the side of a volcano and lends itself to very rocky soil and mountainsides covered with reddish-brown boulders, emulating some of the more mountainous regions of Mars.
 
-![Photo credits to the HI-SEAS project.](https://hi-seas.org/wp-content/gallery/hiseasall/DSC_0563-1.JPG)
+<!-- ![Photo credits to the HI-SEAS project.](https://hi-seas.org/wp-content/gallery/hiseasall/DSC_0563-1.JPG) -->
 
-{% include image.html url="https://hi-seas.org/wp-content/gallery/hiseasall/DSC_0563-1.JPG" description="Photo taken from the Mars base location in Hawaii. Photo credits to the HI-SEAS project." %}
+{% include image.html url="terrain.jpg" description="Photo taken from the Mars base location in Hawaii. Photo credits to the HI-SEAS project." %}
 
 Due to Hawaii's proximity to the Pacific Ocean and having strong trade winds that blow across the ideas, the HI-SEAS Mars base tends to have very consistent weather. The temperature averaging between 65 degrees Fahrenheit to a balmy 88 degrees, which is much higher than that of the surface of Mars, which can range from 68 degrees at noon on the equator of Mars to -243 degrees at a pole. Hawaii's dry season lasts from May to October, and this is the time in which the Mars base here has the most accurate emulation of Mars weather.
 
