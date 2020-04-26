@@ -3,9 +3,9 @@
 > [Patrick Thomas, pwt5ca](https://github.com/patthomasrick)  
 > Friday, April 24th, 2020
 
-With Earth preparing for our first foray out into space beyond Low Earth orbit for the first time since the Apollo era, we have set our eyes on not only the Moon but also Mars. NASA has been devising a plan to send humans to a nearby asteroid and Mars, however a mission to Mars could take [upwards of one-thousand days](https://nvite.jsc.nasa.gov/presentations/b2/D1_Mars_Connolly.pdf). This introduces a unique set of problems. For example, we know that long-term spaceflight is quite dangerous and destructive to humans.
+With Earth preparing for our first foray out into space beyond Low Earth orbit for the first time since the Apollo era, we have set our eyes on not only the Moon but also Mars. NASA has been devising a plan to send humans to a nearby asteroid and Mars, however a mission to Mars could take [upwards of one-thousand days](https://nvite.jsc.nasa.gov/presentations/b2/D1_Mars_Connolly.pdf)[1]. This introduces a unique set of problems. For example, we know that long-term spaceflight is quite dangerous and destructive to humans.
 
-{% include image.html url="images/nasa-journey-to-mars.jpg" description="Infographic from NASA's Journey to Mars from Dec. 1st, 2014. Image credits to NASA.[1]" %}
+{% include image.html url="images/nasa-journey-to-mars.jpg" description="Infographic from NASA's Journey to Mars from Dec. 1st, 2014 [13]. Image credits to NASA." %}
 
 One of these pressing concerns about a Mars mission how to set up an effective, comfortable, accommodating base on the surface of Mars, one that is relatively inexpensive but strong, functional and built-for-science but comfortable. One such group researched this very concept here on Earth in the HI-SEAS project.
 
@@ -77,16 +77,3 @@ Some images are from NASA, which are public domain and not copyrighted unless sp
 ## Works Cited
 
 {% include bibliography.html %}
-
-<!-- 1. Connolly J. Deep Space Transport (DST) and Mars Mission Architecture. :20.
-2. Häuplik-Meusburger S, Binsted K, Bassingthwaighte T, Petrov G. Habitability Studies and Full Scale Simulation Research: Preliminary themes following HISEAS mission IV. :18.
-3. Hawaii. In: Wikipedia. ; 2020. https://en.wikipedia.org/w/index.php?title=Hawaii&oldid=952568872. Accessed April 24, 2020.
-4. HI-SEAS. In: Wikipedia. ; 2020. https://en.wikipedia.org/w/index.php?title=HI-SEAS&oldid=939222655. Accessed April 12, 2020.
-5. HI-SEAS. HI-SEAS. http://hi-seas.org/. Accessed April 12, 2020.
-6. Soderman, SSERVI Staff. HI-SEAS Mission 3. Solar System Exploration Research Virtual Institute. https://sservi.nasa.gov/articles/hi-seas-mission-3/. Published 2014. Accessed April 25, 2020.
-7. Siceloff S. HI-SEAS Team Completes 8-Month Isolation Mission. NASA. http://www.nasa.gov/feature/hi-seas-team-completes-8-month-isolation-mission. Published June 19, 2015. Accessed April 12, 2020.
-8. Cofield C. Life on Mars: Inside The HI-SEAS Isolation Habitat (Gallery). Space.com. https://www.space.com/33941-inside-hiseas-isolation-habitat-hawaii.html. Published September 2, 2016. Accessed April 25, 2020.
-9. Binsted K. Mānoa: HI-SEAS Mission VI cancelled | University of Hawaii News. https://manoa.hawaii.edu/news/article.php?aId=9103. Published February 26, 2018. Accessed April 25, 2020.
-10. Trifonovitch KA. Mānoa: HI-SEAS Mission VI is the most international crew in study history | University of Hawaii News. http://manoa.hawaii.edu/news/article.php?aId=9072. Published November 30, 2017. Accessed April 25, 2020.
-11. Meisenzahl D. Mānoa: HI-SEAS Mission VI postponed following a minor accident | University of Hawaii News. https://manoa.hawaii.edu/news/article.php?aId=9085. Published February 19, 2018. Accessed April 25, 2020.
-12. Daines G. NASA’s Journey to Mars. NASA. http://www.nasa.gov/content/nasas-journey-to-mars. Published February 13, 2015. Accessed April 24, 2020. -->
